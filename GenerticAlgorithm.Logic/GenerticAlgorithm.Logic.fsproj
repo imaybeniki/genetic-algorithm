@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="WorldPos.fs" />
+    <Compile Include="Actors.fs" />
+    <Compile Include="World.fs" />
+  </ItemGroup>
+
+</Project>

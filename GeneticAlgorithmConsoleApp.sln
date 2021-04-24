@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "GeneticAlgorithmConsoleApp", "GeneticAlgorithmConsoleApp\GeneticAlgorithmConsoleApp.fsproj", "{7C0C2883-B207-4A41-A1E3-D1B8267434D9}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "GeneticAlgorithmConsoleApp", "GeneticAlgorithmConsoleApp\GeneticAlgorithmConsoleApp.fsproj", "{7C0C2883-B207-4A41-A1E3-D1B8267434D9}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "GenerticAlgorithm.Logic", "GenerticAlgorithm.Logic\GenerticAlgorithm.Logic.fsproj", "{CC2101A4-587C-4539-919A-DDEEF505229C}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "GenerticAlgorithm.Logic", "GenerticAlgorithm.Logic\GenerticAlgorithm.Logic.fsproj", "{CC2101A4-587C-4539-919A-DDEEF505229C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

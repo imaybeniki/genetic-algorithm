@@ -1,0 +1,8 @@
+C:\Users\nikki\OneDrive\Documents\CodeBase\genetic-algorithm\GeneticAlgorithmConsoleApp\GenerticAlgorithm.Logic\bin\Debug\netstandard2.0\GenerticAlgorithm.Logic.deps.json
+C:\Users\nikki\OneDrive\Documents\CodeBase\genetic-algorithm\GeneticAlgorithmConsoleApp\GenerticAlgorithm.Logic\bin\Debug\netstandard2.0\GenerticAlgorithm.Logic.dll
+C:\Users\nikki\OneDrive\Documents\CodeBase\genetic-algorithm\GeneticAlgorithmConsoleApp\GenerticAlgorithm.Logic\bin\Debug\netstandard2.0\GenerticAlgorithm.Logic.pdb
+C:\Users\nikki\OneDrive\Documents\CodeBase\genetic-algorithm\GeneticAlgorithmConsoleApp\GenerticAlgorithm.Logic\obj\Debug\netstandard2.0\GenerticAlgorithm.Logic.fsprojAssemblyReference.cache
+C:\Users\nikki\OneDrive\Documents\CodeBase\genetic-algorithm\GeneticAlgorithmConsoleApp\GenerticAlgorithm.Logic\obj\Debug\netstandard2.0\GenerticAlgorithm.Logic.AssemblyInfoInputs.cache
+C:\Users\nikki\OneDrive\Documents\CodeBase\genetic-algorithm\GeneticAlgorithmConsoleApp\GenerticAlgorithm.Logic\obj\Debug\netstandard2.0\GenerticAlgorithm.Logic.AssemblyInfo.fs
+C:\Users\nikki\OneDrive\Documents\CodeBase\genetic-algorithm\GeneticAlgorithmConsoleApp\GenerticAlgorithm.Logic\obj\Debug\netstandard2.0\GenerticAlgorithm.Logic.dll
+C:\Users\nikki\OneDrive\Documents\CodeBase\genetic-algorithm\GeneticAlgorithmConsoleApp\GenerticAlgorithm.Logic\obj\Debug\netstandard2.0\GenerticAlgorithm.Logic.pdb
